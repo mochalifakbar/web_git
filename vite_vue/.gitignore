@@ -22,3 +22,14 @@ dist-ssr
 *.njsproj
 *.sln
 *.sw?
+
+# Ini adalah komentar
+../akugt/
+../applications.html
+../bitnami.css
+../dashboard/
+../favicon.ico
+../img/
+../index.php
+../web_git/
+../xampp/
